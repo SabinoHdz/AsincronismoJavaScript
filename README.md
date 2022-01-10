@@ -1,2 +1,2 @@
 ﻿# Asincronismo en JavaScript
- Temas como callbacks, promises, asyn y await
+ Temas como callbacks, promises, async y await
